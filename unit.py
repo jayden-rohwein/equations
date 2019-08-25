@@ -1,3 +1,7 @@
+#  -- does not have any values
+# -- just a list for numorators & denominators
+#
+#
 class Unit:
 
     def __init__(self, unit=None, num=[], den=[]):

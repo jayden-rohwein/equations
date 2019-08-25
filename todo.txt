@@ -1,0 +1,11 @@
+
+UNIT
+-- sort units & have  ^ power
+
+TERM
+-- significant figures
+
+
+EQUATIONS
+-- algebra
+-- arithmatic 

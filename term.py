@@ -7,7 +7,8 @@ class Term:
         self.unit = unit
         self.sigfig = self.getSigfig(value) 
 
-    def getSigfig(self, value):
+    #----------------------------  make this actually get significant figures
+    def getSigfig(self, value):  
         return 2
  
     def mul(self, term):
